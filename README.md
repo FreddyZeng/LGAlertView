@@ -47,10 +47,11 @@ You can customize every detail. Make AlertView of your dream! :)
 
 ## Installation
 
-| LGAlertView version | iOS version |
-|---------------------|-------------|
-| <= 2.0.13           | >= 6.0      |
-| >= 2.1.0            | >= 8.0      |
+| LGAlertView Version | Min iOS Version |
+|---------------------|-----------------|
+| 1.0.0               | 6.0             |
+| 2.1.0               | 8.0             |
+| 2.4.1               | 12.0            |
 
 ### With source code
 
