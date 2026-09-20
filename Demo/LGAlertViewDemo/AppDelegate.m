@@ -1,6 +1,6 @@
 //
-//  AppDelegate.m
-//  LGAlertViewDemo
+// AppDelegate.m
+// LGAlertViewDemo
 //
 
 #import "AppDelegate.h"

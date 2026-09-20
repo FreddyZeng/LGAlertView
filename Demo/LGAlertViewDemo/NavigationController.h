@@ -1,6 +1,6 @@
 //
-//  NavigationController.h
-//  LGAlertViewDemo
+// NavigationController.h
+// LGAlertViewDemo
 //
 
 #import <UIKit/UIKit.h>

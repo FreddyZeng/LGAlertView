@@ -1,6 +1,6 @@
 //
-//  TableViewControllerActionSheet.m
-//  LGAlertViewDemo
+// TableViewControllerActionSheet.m
+// LGAlertViewDemo
 //
 
 #import "TableViewControllerActionSheet.h"

@@ -1,6 +1,6 @@
 //
-//  main.m
-//  LGAlertViewDemo
+// main.m
+// LGAlertViewDemo
 //
 
 #import <UIKit/UIKit.h>

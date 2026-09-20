@@ -1,6 +1,6 @@
 //
-//  TableViewControllerCustomAlert.h
-//  LGAlertViewDemo
+// TableViewControllerCustomAlert.h
+// LGAlertViewDemo
 //
 
 #import <UIKit/UIKit.h>

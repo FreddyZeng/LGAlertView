@@ -1,6 +1,6 @@
 //
-//  AppDelegate.h
-//  LGAlertViewDemo
+// AppDelegate.h
+// LGAlertViewDemo
 //
 
 #import <UIKit/UIKit.h>

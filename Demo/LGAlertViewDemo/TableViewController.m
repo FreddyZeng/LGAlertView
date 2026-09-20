@@ -1,6 +1,6 @@
 //
-//  TableViewController.m
-//  LGAlertViewDemo
+// TableViewController.m
+// LGAlertViewDemo
 //
 
 #import "TableViewController.h"

@@ -1,6 +1,6 @@
 //
-//  TableViewControllerBlurredAlert.m
-//  LGAlertViewDemo
+// TableViewControllerBlurredAlert.m
+// LGAlertViewDemo
 //
 
 #import "TableViewControllerBlurredAlert.h"

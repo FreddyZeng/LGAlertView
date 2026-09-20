@@ -1,6 +1,6 @@
 //
-//  NavigationController.m
-//  LGAlertViewDemo
+// NavigationController.m
+// LGAlertViewDemo
 //
 
 #import "NavigationController.h"

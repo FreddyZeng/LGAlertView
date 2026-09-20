@@ -191,7 +191,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
 				LastUpgradeCheck = 1540;
-				ORGANIZATIONNAME = "Grigory Lutkov";
+				ORGANIZATIONNAME = "Grigorii Lutkov";
 				TargetAttributes = {
 					4AF138ED1BF383540037B073 = {
 						CreatedOnToolsVersion = 7.1.1;
@@ -384,7 +384,7 @@
 				);
 				MODULEMAP_FILE = LGAlertViewFramework/module.modulemap;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu99 gnu++11";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Friend-LGA.LGAlertViewFramework";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.LGLibs.LGAlertViewFramework";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -410,7 +410,7 @@
 				);
 				MODULEMAP_FILE = LGAlertViewFramework/module.modulemap;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu99 gnu++11";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Friend-LGA.LGAlertViewFramework";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.LGLibs.LGAlertViewFramework";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
